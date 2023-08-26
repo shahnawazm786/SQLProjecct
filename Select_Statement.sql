@@ -9,4 +9,5 @@ where empno=1001
 -- tbl_employee contains following column
 -- empno, fname, lname, phone, email, isdeleted, isblocked
 -- fetch record of all employee first name which is in fname cloumn
-
+select fname from tbl_employee;
+-- fetch record of all employee last name which is in lname column
