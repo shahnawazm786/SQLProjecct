@@ -20,3 +20,4 @@ values('Sam','William','6788907453','sam@ymail.com')
 -- Add fifth record
 Insert into TBL_Customer(Cust_First_Name,Cust_Last_Name,Cust_Phone,Cust_Email)
 values('King','William','6788907452','king@ymail.com')
+
