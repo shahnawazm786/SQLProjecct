@@ -33,4 +33,5 @@ Cust_Email nvarchar(50),
 Cust_Created_Date date,
 Cust_Blocked_Date date,
 Cust_Is_Deleted bit,
-Cust_Is_Blocked bit);
+Cust_Is_Blocked bit
+);
