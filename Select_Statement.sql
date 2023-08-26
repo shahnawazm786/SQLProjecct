@@ -8,4 +8,5 @@ where empno=1001
 -- where clause filter the data on the basis of coulm value
 -- tbl_employee contains following column
 -- empno, fname, lname, phone, email, isdeleted, isblocked
---
+-- fetch record of all employee first name which is in fname cloumn
+
