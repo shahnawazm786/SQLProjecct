@@ -23,4 +23,4 @@ values('King','William','6788907452','king@ymail.com')
 
 -- Add sixth record
 Insert into TBL_Customer(Cust_First_Name,Cust_Last_Name,Cust_Phone,Cust_Email)
-values('King','William','6788907452','king@ymail.com')
+values('Clark','Sam','6788907452','clark@ymail.com')
