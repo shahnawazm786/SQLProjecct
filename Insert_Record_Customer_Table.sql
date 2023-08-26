@@ -11,3 +11,7 @@ values('Mohan','Sharma','6788907450','mohan@ymail.com')
 -- Add third record
 Insert into TBL_Customer(Cust_First_Name,Cust_Last_Name,Cust_Phone,Cust_Email)
 values('Jack','Straw','6788907451','jack@ymail.com')
+
+-- Add fourth record
+Insert into TBL_Customer(Cust_First_Name,Cust_Last_Name,Cust_Phone,Cust_Email)
+values('Sam','William','6788907453','sam@ymail.com')
