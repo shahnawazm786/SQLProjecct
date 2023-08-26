@@ -12,3 +12,4 @@ where empno=1001
 select fname from tbl_employee;
 -- fetch record of all employee last name which is in lname column
 select lname from tbl_employee;
+--fetch record to all employee phone no which is in phone column
