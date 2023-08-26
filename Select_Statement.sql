@@ -6,3 +6,6 @@ where empno=1001
 -- when we want to filter the record in table by column value
 -- we need to use - where clause
 -- where clause filter the data on the basis of coulm value
+-- tbl_employee contains following column
+-- empno, fname, lname, phone, email, isdeleted, isblocked
+--
