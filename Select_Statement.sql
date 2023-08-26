@@ -11,3 +11,4 @@ where empno=1001
 -- fetch record of all employee first name which is in fname cloumn
 select fname from tbl_employee;
 -- fetch record of all employee last name which is in lname column
+select lname from tbl_employee;
