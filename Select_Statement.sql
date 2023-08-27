@@ -7,7 +7,7 @@ where empno=1001
 -- we need to use - where clause
 -- where clause filter the data on the basis of coulm value
 -- tbl_employee contains following column
--- empno, fname, lname, phone, email, isdeleted, isblocked
+-- empno, fname, lname, phone, email, isdeleted, islocked
 -- fetch record of all employee first name which is in fname cloumn
 select fname from tbl_employee;
 -- fetch record of all employee last name which is in lname column
