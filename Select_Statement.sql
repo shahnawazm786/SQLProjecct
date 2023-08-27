@@ -14,3 +14,6 @@ select fname from tbl_employee;
 select lname from tbl_employee;
 --fetch record to all employee phone no which is in phone column
 select phone from tbl_employee;
+-- 27 Aug 2023
+--fetch record to all employee phone no which is in phone column
+select phone from tbl_employee;
