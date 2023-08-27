@@ -16,4 +16,4 @@ select lname from tbl_employee;
 select phone from tbl_employee;
 -- 27 Aug 2023
 --fetch record to all employee email no which is in email column
-select phone from tbl_employee;
+select email from tbl_employee;
