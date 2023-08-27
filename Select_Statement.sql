@@ -20,4 +20,4 @@ select email from tbl_employee;
 --fetch record to all employee isdeleted employee which is in isdeleted column
 select isdeleted from tbl_employee;
 --fetch record to all employee isblocked employee which is in isblocked column
-select isblocked from tbl_employee;
+select islocked from tbl_employee;
