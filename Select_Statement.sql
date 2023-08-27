@@ -19,3 +19,5 @@ select phone from tbl_employee;
 select email from tbl_employee;
 --fetch record to all employee isdeleted employee which is in isdeleted column
 select isdeleted from tbl_employee;
+--fetch record to all employee isdeleted employee which is in isdeleted column
+select isdeleted from tbl_employee;
