@@ -17,3 +17,5 @@ select phone from tbl_employee;
 -- 27 Aug 2023
 --fetch record to all employee email no which is in email column
 select email from tbl_employee;
+--fetch record to all employee isdeleted employee which is in isdeleted column
+select email from tbl_employee;
