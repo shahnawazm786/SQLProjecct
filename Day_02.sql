@@ -11,3 +11,7 @@
 -- DCL (Data Control Language) - Grant, Revoke
 -- TCL (Transaction Control Language) - rollback, commit, savepoint
 -- SQL Query Command - Select
+-- SQL Query Command - Select
+-- Select * | <column_name> | <column_name> from <table_name>
+-- Where <column_name> <operator> <operand value>
+--
