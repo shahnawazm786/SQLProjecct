@@ -14,4 +14,11 @@
 -- SQL Query Command - Select
 -- Select * | <column_name> | <column_name> from <table_name>
 -- Where <column_name> <operator> <operand value>
---
+-- All records
+-- Selected records
+-- Full Information
+-- Selected Information
+-- All recrods - full information
+-- Selected records - full information
+-- All records - Selected information
+-- Selected records -Selected information
