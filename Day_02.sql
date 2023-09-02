@@ -16,9 +16,20 @@
 -- Where <column_name> <operator> <operand value>
 -- All records
 -- Selected records
--- Full Information
+-- Full Information (*)
 -- Selected Information
 -- All recrods - full information
 -- Selected records - full information
 -- All records - Selected information
 -- Selected records -Selected information
+-- DemoTable
+-- Record fetch - select record -- SQL Query - Select
+-- All recrods - full information - DemoTable
+select * from DemoTable;
+-- All customer slno from the DemoTable
+select slno from DemoTable;
+-- All Customer name from the DemoTable
+select CustomerName from DemoTable;
+-- All Customer Transaction date from the DemoTable
+
+
