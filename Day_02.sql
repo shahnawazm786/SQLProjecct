@@ -31,5 +31,9 @@ select slno from DemoTable;
 -- All Customer name from the DemoTable
 select CustomerName from DemoTable;
 -- All Customer Transaction date from the DemoTable
-
+select TransactionDate from DemoTable;
+-- All TotalPrice from the DemoTable
+select TotalPRice from DemoTable;
+-- All customercode from DemoTable
+Select customercode from demotable;
 
