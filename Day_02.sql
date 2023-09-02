@@ -1,4 +1,10 @@
 -- Data type in sql
+-- int,bigint -- whole number 1,100,200,400,9000
+-- varchar, char, nvarchar - 
+-- date - 
+-- bit -
+-- image - 
+-- decimal, currency, money, numeric - 900.99 , 780.45
 -- Types of query perform
 -- DML
 -- DDL
