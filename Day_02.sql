@@ -1,0 +1,6 @@
+-- Data type in sql
+-- Types of query perform
+-- DML
+-- DDL
+-- DCL
+-- TCL
