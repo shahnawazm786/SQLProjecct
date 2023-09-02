@@ -5,8 +5,9 @@
 -- bit -
 -- image - 
 -- decimal, currency, money, numeric - 900.99 , 780.45
--- Types of query perform
--- DML
--- DDL
--- DCL
--- TCL
+-- Types of query perform in SQL
+-- DML(Data Manipulation Language) - Insert, Update, Delete
+-- DDL (Data Definition Language) - Create, Alter, Drop
+-- DCL (Data Control Language) - Grant, Revoke
+-- TCL (Transaction Control Language) - rollback, commit, savepoint
+-- SQL Query Command - Select
