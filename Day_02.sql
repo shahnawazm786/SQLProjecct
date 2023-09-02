@@ -36,4 +36,8 @@ select TransactionDate from DemoTable;
 select TotalPRice from DemoTable;
 -- All customercode from DemoTable
 Select customercode from demotable;
+-- All male and female from DemoTable
+select Male from demotable;
+-- Male - 1 / True - Male
+-- Male - 0 / False - Female
 
