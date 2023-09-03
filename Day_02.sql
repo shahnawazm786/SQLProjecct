@@ -41,3 +41,4 @@ select Male from demotable;
 -- Male - 1 / True - Male
 -- Male - 0 / False - Female
 
+
